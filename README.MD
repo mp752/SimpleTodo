@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/NEH99Tv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ShareX](https://getsharex.com/).
 
 ## Notes
 
